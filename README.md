@@ -2,7 +2,7 @@
 
 You have found the github of [Chris Schmidt](https://www.linkedin.com/in/christopher-schmidt-251791149)!
 
-Are you here to take a peak under the hood at my [resume](https://github.com/GamingViking/Resume/blob/main/resume.html)?
+Are you here to check out my [resume](https://gamingviking.github.io/Resume/) or perhaps take a look at the [code for it](https://github.com/GamingViking/Resume/blob/main/resume.html)?
 
 Or perhaps you're feeling courageous and wish to take to the high seas to [battle ships](https://github.com/GamingViking/CSharpBattleship)!
 
