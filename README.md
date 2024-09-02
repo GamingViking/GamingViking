@@ -4,6 +4,6 @@ You have found the github of [Chris Schmidt](https://www.linkedin.com/in/christo
 
 Are you here to check out my [resume](https://gamingviking.github.io/Resume/) or perhaps take a look at the [code for it](https://github.com/GamingViking/Resume/blob/main/resume.html)?
 
-Or perhaps you're feeling courageous and wish to take to the high seas to [battle ships](https://github.com/GamingViking/CSharpBattleship)!
+Or maybe you're feeling courageous and wish to take to the high seas to [battle ships](https://github.com/GamingViking/CSharpBattleship)!
 
 Discourse with me at your leisure at cmschmidt12345@gmail.com
